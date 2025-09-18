@@ -13,4 +13,4 @@ I am Farhan Parwez Khan and I have made this game called Hot Air Balloon Game wh
 
 ### The game:
 
-<img src="gamescreenshot.png" alt="Alt text" width="700" height="400">
+<img src="gamescreenshot.png" alt="Alt text" width=1000" height="700">
