@@ -12,7 +12,7 @@ I am Farhan Parwez Khan and I have made this game called Hot Air Balloon Game wh
 
 <img src="Screenshot 2025-09-19 000950.png" alt="Alt text" width="900" height="600">
 
-<img src="Screenshot 2025-09-19 001031.png" alt="Alt text" width="900" height="600">
+<img src="Screenshot 2025-09-19 001031.png" alt="Alt text" width="900" height="165">
 
 ### The game:
 
