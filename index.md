@@ -12,7 +12,7 @@ I am Farhan Parwez Khan and I have recreated this game called Hot Air Balloon Ga
 
 <img src="ci4.jpg" alt="Alt text" width="300" height="350">
 
-<img src="ci5.jpg" alt="Alt text" width="300" height="150">
+<img src="ci5.jpg" alt="Alt text" width="300" height="170">
 
 ### The game:
 
